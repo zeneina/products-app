@@ -64,9 +64,8 @@ exports.options = {
             }
           }
         }
-      }
-    },
-    "post":{
+      },
+      "post":{
         "tags": ["Users"],
         "description":"Create new user",
         "requestBody":{
@@ -206,4 +205,5 @@ exports.options = {
         }
       }
     }
+  }
 }
